@@ -4,7 +4,7 @@
   "buildCommand": "bun run build",
   "installCommand": "bun install",
   "devCommand": "bun run dev",
-  "regions": ["sin1", "hnd1", "iad1"],
+  "regions": ["sin1"],
   "functions": {
     "src/app/api/**/*.ts": {
       "memory": 1024,
